@@ -1,0 +1,10 @@
+pandas
+numpy
+scipy
+scikit-learn
+requests
+beautifulsoup4
+streamlit
+openpyxl
+lxml
+html5lib
