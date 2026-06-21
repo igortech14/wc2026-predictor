@@ -1,0 +1,35 @@
+name: Daily Model Update
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Fetch latest results
+        run: python update_recent.py
+
+      - name: Retrain model
+        run: python train.py
+
+      - name: Commit and push if changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add data/matches.db data/model.pkl data/enriched_schedule.json || true
+          git diff --staged --quiet || git commit -m "Daily update [skip ci]"
+          git push
