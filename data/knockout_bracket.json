@@ -1,0 +1,290 @@
+[
+    {
+        "round": "R32",
+        "match_id": 73,
+        "team1_placeholder": "Group A runners-up",
+        "team2_placeholder": "Group B runners-up",
+        "date": "2026-06-28",
+        "venue_city": "Los Angeles",
+        "venue_stadium": "Los Angeles Stadium"
+    },
+    {
+        "round": "R32",
+        "match_id": 74,
+        "team1_placeholder": "Group E winners",
+        "team2_placeholder": "3rd place Group A/B/C/D/F",
+        "date": "2026-06-29",
+        "venue_city": "Boston",
+        "venue_stadium": "Boston Stadium"
+    },
+    {
+        "round": "R32",
+        "match_id": 75,
+        "team1_placeholder": "Group F winners",
+        "team2_placeholder": "Group C runners-up",
+        "date": "2026-06-29",
+        "venue_city": "Monterrey",
+        "venue_stadium": "Estadio Monterrey"
+    },
+    {
+        "round": "R32",
+        "match_id": 76,
+        "team1_placeholder": "Group C winners",
+        "team2_placeholder": "Group F runners-up",
+        "date": "2026-06-29",
+        "venue_city": "Houston",
+        "venue_stadium": "Houston Stadium"
+    },
+    {
+        "round": "R32",
+        "match_id": 77,
+        "team1_placeholder": "Group I winners",
+        "team2_placeholder": "3rd place Group C/D/F/G/H",
+        "date": "2026-06-30",
+        "venue_city": "New York/New Jersey",
+        "venue_stadium": "MetLife Stadium"
+    },
+    {
+        "round": "R32",
+        "match_id": 78,
+        "team1_placeholder": "Group E runners-up",
+        "team2_placeholder": "Group I runners-up",
+        "date": "2026-06-30",
+        "venue_city": "Dallas",
+        "venue_stadium": "Dallas Stadium"
+    },
+    {
+        "round": "R32",
+        "match_id": 79,
+        "team1_placeholder": "Group A winners",
+        "team2_placeholder": "3rd place Group C/E/F/H/I",
+        "date": "2026-06-30",
+        "venue_city": "Mexico City",
+        "venue_stadium": "Estadio Azteca"
+    },
+    {
+        "round": "R32",
+        "match_id": 80,
+        "team1_placeholder": "Group L winners",
+        "team2_placeholder": "3rd place Group E/H/I/J/K",
+        "date": "2026-07-01",
+        "venue_city": "Atlanta",
+        "venue_stadium": "Atlanta Stadium"
+    },
+    {
+        "round": "R32",
+        "match_id": 81,
+        "team1_placeholder": "Group D winners",
+        "team2_placeholder": "3rd place Group B/E/F/I/J",
+        "date": "2026-07-01",
+        "venue_city": "San Francisco",
+        "venue_stadium": "San Francisco Bay Area Stadium"
+    },
+    {
+        "round": "R32",
+        "match_id": 82,
+        "team1_placeholder": "Group G winners",
+        "team2_placeholder": "3rd place Group A/E/H/I/J",
+        "date": "2026-07-01",
+        "venue_city": "Seattle",
+        "venue_stadium": "Seattle Stadium"
+    },
+    {
+        "round": "R32",
+        "match_id": 83,
+        "team1_placeholder": "Group K runners-up",
+        "team2_placeholder": "Group L runners-up",
+        "date": "2026-07-02",
+        "venue_city": "Toronto",
+        "venue_stadium": "Toronto Stadium"
+    },
+    {
+        "round": "R32",
+        "match_id": 84,
+        "team1_placeholder": "Group H winners",
+        "team2_placeholder": "Group J runners-up",
+        "date": "2026-07-02",
+        "venue_city": "Los Angeles",
+        "venue_stadium": "Los Angeles Stadium"
+    },
+    {
+        "round": "R32",
+        "match_id": 85,
+        "team1_placeholder": "Group B winners",
+        "team2_placeholder": "3rd place Group E/F/G/I/J",
+        "date": "2026-07-02",
+        "venue_city": "Vancouver",
+        "venue_stadium": "BC Place"
+    },
+    {
+        "round": "R32",
+        "match_id": 86,
+        "team1_placeholder": "Group J winners",
+        "team2_placeholder": "Group H runners-up",
+        "date": "2026-07-03",
+        "venue_city": "Miami",
+        "venue_stadium": "Miami Stadium"
+    },
+    {
+        "round": "R32",
+        "match_id": 87,
+        "team1_placeholder": "Group K winners",
+        "team2_placeholder": "3rd place Group D/E/I/J/L",
+        "date": "2026-07-03",
+        "venue_city": "Kansas City",
+        "venue_stadium": "Kansas City Stadium"
+    },
+    {
+        "round": "R32",
+        "match_id": 88,
+        "team1_placeholder": "Group D runners-up",
+        "team2_placeholder": "Group G runners-up",
+        "date": "2026-07-03",
+        "venue_city": "Dallas",
+        "venue_stadium": "Dallas Stadium"
+    },
+    {
+        "round": "R16",
+        "match_id": 89,
+        "team1_placeholder": "Winner Match 74",
+        "team2_placeholder": "Winner Match 77",
+        "date": "2026-07-04",
+        "venue_city": "Philadelphia",
+        "venue_stadium": "Philadelphia Stadium"
+    },
+    {
+        "round": "R16",
+        "match_id": 90,
+        "team1_placeholder": "Winner Match 73",
+        "team2_placeholder": "Winner Match 75",
+        "date": "2026-07-04",
+        "venue_city": "Houston",
+        "venue_stadium": "Houston Stadium"
+    },
+    {
+        "round": "R16",
+        "match_id": 91,
+        "team1_placeholder": "Winner Match 76",
+        "team2_placeholder": "Winner Match 78",
+        "date": "2026-07-05",
+        "venue_city": "New York/New Jersey",
+        "venue_stadium": "MetLife Stadium"
+    },
+    {
+        "round": "R16",
+        "match_id": 92,
+        "team1_placeholder": "Winner Match 79",
+        "team2_placeholder": "Winner Match 80",
+        "date": "2026-07-05",
+        "venue_city": "Mexico City",
+        "venue_stadium": "Estadio Azteca"
+    },
+    {
+        "round": "R16",
+        "match_id": 93,
+        "team1_placeholder": "Winner Match 83",
+        "team2_placeholder": "Winner Match 84",
+        "date": "2026-07-06",
+        "venue_city": "Dallas",
+        "venue_stadium": "Dallas Stadium"
+    },
+    {
+        "round": "R16",
+        "match_id": 94,
+        "team1_placeholder": "Winner Match 81",
+        "team2_placeholder": "Winner Match 82",
+        "date": "2026-07-06",
+        "venue_city": "Seattle",
+        "venue_stadium": "Seattle Stadium"
+    },
+    {
+        "round": "R16",
+        "match_id": 95,
+        "team1_placeholder": "Winner Match 86",
+        "team2_placeholder": "Winner Match 88",
+        "date": "2026-07-07",
+        "venue_city": "Atlanta",
+        "venue_stadium": "Atlanta Stadium"
+    },
+    {
+        "round": "R16",
+        "match_id": 96,
+        "team1_placeholder": "Winner Match 85",
+        "team2_placeholder": "Winner Match 87",
+        "date": "2026-07-07",
+        "venue_city": "Vancouver",
+        "venue_stadium": "BC Place"
+    },
+    {
+        "round": "QF",
+        "match_id": 97,
+        "team1_placeholder": "Winner Match 89",
+        "team2_placeholder": "Winner Match 90",
+        "date": "2026-07-09",
+        "venue_city": "Boston",
+        "venue_stadium": "Boston Stadium"
+    },
+    {
+        "round": "QF",
+        "match_id": 98,
+        "team1_placeholder": "Winner Match 93",
+        "team2_placeholder": "Winner Match 94",
+        "date": "2026-07-10",
+        "venue_city": "Los Angeles",
+        "venue_stadium": "Los Angeles Stadium"
+    },
+    {
+        "round": "QF",
+        "match_id": 99,
+        "team1_placeholder": "Winner Match 91",
+        "team2_placeholder": "Winner Match 92",
+        "date": "2026-07-11",
+        "venue_city": "Miami",
+        "venue_stadium": "Miami Stadium"
+    },
+    {
+        "round": "QF",
+        "match_id": 100,
+        "team1_placeholder": "Winner Match 95",
+        "team2_placeholder": "Winner Match 96",
+        "date": "2026-07-11",
+        "venue_city": "Kansas City",
+        "venue_stadium": "Kansas City Stadium"
+    },
+    {
+        "round": "SF",
+        "match_id": 101,
+        "team1_placeholder": "Winner Match 97",
+        "team2_placeholder": "Winner Match 98",
+        "date": "2026-07-14",
+        "venue_city": "Dallas",
+        "venue_stadium": "Dallas Stadium"
+    },
+    {
+        "round": "SF",
+        "match_id": 102,
+        "team1_placeholder": "Winner Match 99",
+        "team2_placeholder": "Winner Match 100",
+        "date": "2026-07-15",
+        "venue_city": "Atlanta",
+        "venue_stadium": "Atlanta Stadium"
+    },
+    {
+        "round": "Third place",
+        "match_id": 103,
+        "team1_placeholder": "Loser Match 101",
+        "team2_placeholder": "Loser Match 102",
+        "date": "2026-07-18",
+        "venue_city": "Miami",
+        "venue_stadium": "Miami Stadium"
+    },
+    {
+        "round": "Final",
+        "match_id": 104,
+        "team1_placeholder": "Winner Match 101",
+        "team2_placeholder": "Winner Match 102",
+        "date": "2026-07-19",
+        "venue_city": "New York/New Jersey",
+        "venue_stadium": "MetLife Stadium"
+    }
+]

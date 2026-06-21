@@ -1,0 +1,27 @@
+{
+  "bankroll": 18675.684291600002,
+  "bets": [
+    {
+      "date": "2026-06-12",
+      "match": "Mexico vs South Africa",
+      "bet_type": "Under 2.5",
+      "odds": 1.73,
+      "kelly_pct": 0.02,
+      "stake": 360.0,
+      "result": "Win",
+      "profit": 223.38,
+      "bankroll": 18223.38
+    },
+    {
+      "date": "2026-06-12",
+      "match": "Mexico vs South Africa",
+      "bet_type": "Under 2.5",
+      "odds": 1.73,
+      "kelly_pct": 0.04,
+      "stake": 728.9352,
+      "result": "Win",
+      "profit": 452.3042916,
+      "bankroll": 18675.684291600002
+    }
+  ]
+}

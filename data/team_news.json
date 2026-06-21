@@ -1,0 +1,145 @@
+{
+  "_comment": "WC 2026 live adjustments v2 - June 21, 2026. Positive att_mod = stronger attack. Positive def_mod = weaker defence (easier to score against). Negative def_mod = stronger defence.",
+
+  "Argentina": {
+    "att_mod": 0.00,
+    "def_mod": 0.00
+  },
+
+  "France": {
+    "att_mod": 0.00,
+    "def_mod": 0.00
+  },
+
+  "Brazil": {
+    "_reason": "Neymar absent, Raphinha uncertain, Estevao out. Attack looks noticeably worse than model expectations.",
+    "att_mod": -0.15,
+    "def_mod": 0.05
+  },
+
+  "Spain": {
+    "_reason": "Yamal fitness concerns expose heavy dependence on him for creativity.",
+    "att_mod": -0.08,
+    "def_mod": 0.00
+  },
+
+  "Portugal": {
+    "_reason": "Ranking around 5th-6th looks justified. No major correction.",
+    "att_mod": 0.00,
+    "def_mod": 0.00
+  },
+
+  "Morocco": {
+    "_reason": "Brazil draw confirms defensive quality despite injuries.",
+    "att_mod": -0.05,
+    "def_mod": 0.00
+  },
+
+  "England": {
+    "_reason": "Model ranking around 7th is fair.",
+    "att_mod": 0.00,
+    "def_mod": 0.00
+  },
+
+  "Japan": {
+    "_reason": "Mitoma loss hurts, but performances suggest attack remains excellent.",
+    "att_mod": -0.03,
+    "def_mod": 0.00
+  },
+
+  "Uruguay": {
+    "_reason": "Attack still mediocre, but Saudi draw suggests defence slightly overrated.",
+    "att_mod": 0.00,
+    "def_mod": 0.08
+  },
+
+  "Belgium": {
+    "_reason": "Ranking around 10th appears reasonable.",
+    "att_mod": 0.00,
+    "def_mod": 0.00
+  },
+
+  "Ivory Coast": {
+    "_reason": "Results against Germany and Ecuador suggest they are slightly underrated.",
+    "att_mod": 0.06,
+    "def_mod": -0.05
+  },
+
+  "Ecuador": {
+    "_reason": "Still elite defensively but perhaps not best defence in tournament.",
+    "att_mod": 0.00,
+    "def_mod": 0.08
+  },
+
+  "Germany": {
+    "_reason": "Attack is elite. Defence leaks against decent opposition.",
+    "att_mod": 0.00,
+    "def_mod": 0.10
+  },
+
+  "Paraguay": {
+    "_reason": "No evidence for major changes.",
+    "att_mod": 0.00,
+    "def_mod": 0.00
+  },
+
+  "Netherlands": {
+    "_reason": "Attack excellent. Defence considerably weaker than model due to De Ligt absence and tournament evidence.",
+    "att_mod": 0.08,
+    "def_mod": 0.15
+  },
+
+  "Switzerland": {
+    "_reason": "4-1 win over Bosnia suggests attack slightly underrated.",
+    "att_mod": 0.07,
+    "def_mod": 0.00
+  },
+
+  "United States": {
+    "_reason": "Model probably underrates attacking talent generation.",
+    "att_mod": 0.08,
+    "def_mod": 0.00
+  },
+
+  "Sweden": {
+    "_reason": "Isak-Gyokeres combination is better than historical data suggests.",
+    "att_mod": 0.12,
+    "def_mod": 0.00
+  },
+
+  "Norway": {
+    "_reason": "Haaland effect is significantly underrepresented due to lack of tournament data.",
+    "att_mod": 0.20,
+    "def_mod": 0.00
+  },
+
+  "Canada": {
+    "_reason": "Davies absence remains huge despite Qatar blowout.",
+    "att_mod": -0.10,
+    "def_mod": 0.03
+  },
+
+  "Bosnia and Herzegovina": {
+    "_reason": "Injuries and 4-1 defeat to Switzerland justify further downgrade.",
+    "att_mod": -0.05,
+    "def_mod": 0.15
+  },
+
+  "Australia": {
+    "_reason": "Defensive metrics likely inflated by opposition quality.",
+    "att_mod": 0.00,
+    "def_mod": 0.25
+  },
+
+  "Cape Verde": {
+    "_reason": "Spain result appears to be an outlier. Defence significantly overrated.",
+    "att_mod": 0.00,
+    "def_mod": 0.35
+  },
+
+  "New Zealand": {
+    "_reason": "Iran draw suggests marginally better attack than model.",
+    "att_mod": 0.06,
+    "def_mod": 0.00
+  }
+}
